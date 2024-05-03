@@ -1,0 +1,17 @@
+﻿
+Nyquest IDE Solution File, Format Version 1.00
+# NYIDE 4.20.0.2142
+Project("{B1647980-B642-454F-99B0-4BB03538C058}") = "WL2401Demo", "WL2401Demo.naprj", "{44837E4F-8D58-4BBF-8851-73D5B357F394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any = Debug|Any
+		Release|Any = Release|Any
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44837E4F-8D58-4BBF-8851-73D5B357F394}.Debug|Any.Build.0 = Debug|Any
+		{44837E4F-8D58-4BBF-8851-73D5B357F394}.Debug|Any.ActiveCfg = Debug|Any
+		{44837E4F-8D58-4BBF-8851-73D5B357F394}.Release|Any.Build.0 = Release|Any
+		{44837E4F-8D58-4BBF-8851-73D5B357F394}.Release|Any.ActiveCfg = Release|Any
+	EndGlobalSection
+EndGlobal

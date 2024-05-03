@@ -1,0 +1,14 @@
+[ROM]
+MaxData=0x00000800
+MaxInstruction=0x00000800
+[PROM]
+Total=0x0000040A
+Instruction=0x0000040A
+Free=0x000003F6
+[OUT_BOUND]
+Instruction=0x0
+Data=0x0
+[DROM]
+Total=0x0000040A
+Data=0x0000040A
+Free=0x000003F6
